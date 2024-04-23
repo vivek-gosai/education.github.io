@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'Indie Flower';
+    src: url('../font/IndieFlower.woff2') format('woff2'),
+        url('../font/IndieFlower.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../font/Dosis-ExtraBold.woff2') format('woff2'),
+        url('../font/Dosis-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+
+
+
+
+
+    
+    font-family: 'Dosis';
+    src: url('../font/Dosis-Bold.woff2') format('woff2'),
+        url('../font/Dosis-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../font/Dosis-ExtraLight.woff2') format('woff2'),
+        url('../font/Dosis-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../font/Dosis-Regular.woff2') format('woff2'),
+        url('../font/Dosis-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../font/Dosis-SemiBold.woff2') format('woff2'),
+        url('../font/Dosis-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../font/Dosis-Medium.woff2') format('woff2'),
+        url('../font/Dosis-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../font/Dosis-Light.woff2') format('woff2'),
+        url('../font/Dosis-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('../font/Dosis-Regular.woff2') format('woff2'),
+        url('../font/Dosis-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
